@@ -1,0 +1,12 @@
+.idea
+target
+*.iml
+.project
+org.eclipse.*
+.settings
+bin
+.classpath
+.factorypath
+logs
+sh.exe.stackdump
+.sts4-cache
