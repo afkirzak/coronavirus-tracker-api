@@ -18,7 +18,7 @@ public class TrackerController {
 
     @GetMapping("/welcome")
     public String welcome() {
-        return "Welcome!\nThis is the fast and basic API for tracking development of the new coronavirus (COVID-19)\nV1.1.0";
+        return "Welcome!\nThis is the fast and basic API for tracking development of the new coronavirus (COVID-19)\nV1.1.0.";
     }
 
     @CrossOrigin
